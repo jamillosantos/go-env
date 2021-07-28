@@ -1,4 +1,4 @@
-module github.com/setare/go-env
+module github.com/jamillosantos/go-env
 
 go 1.16
 
